@@ -1,0 +1,3 @@
+This is a sample txt file to test the document loader.
+This is a sample test and it is different from line 1. 
+This is a sample text and it is different from line 2.
